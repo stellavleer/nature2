@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+canvas {
+  display: block;
+}
+
+#bt{
+  margin-top: 300px;
+  margin-left: 550px;
+  border: none;
+  background-color: white;
+}
+
+#btimagem{
+  width: 400px; 
+  height:200px
+}
+
+#textomenu{
+  margin-top: -25px;
+  margin-left: 650px;
+  color: brown;
+  font-size: 25;
+ 
+}
+
+
